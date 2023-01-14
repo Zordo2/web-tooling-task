@@ -1,0 +1,1 @@
+(()=>{"use strict";let e=document.getElementById("num1").value,t=document.getElementById("num2").value,n=(document.getElementById("operator").value,document.getElementById("result"));document.getElementById("btn");e=parseInt(e),t=parseInt(t),btn.addEventListener("click",(function(e,t,u){"+"==u?n.value=e+t:"-"==u?n.value=e-t:"*"==u?n.value=e*t:"/"==u&&(n.value=e/t)}))})();
